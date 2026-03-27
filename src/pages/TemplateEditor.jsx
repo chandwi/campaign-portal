@@ -659,11 +659,9 @@ export default function TemplateEditor() {
           </span>
         </div>
 
-        {/* Jump to nav */}
         <div style={{
           display: 'flex',
           alignItems: 'center',
-          gap: 0,
           marginBottom: 20,
           background: 'var(--c-surface)',
           border: '1px solid var(--c-border)',
